@@ -1,6 +1,6 @@
 # Simple Plate: Semantic Recipe Site
 
-A hand-written HTML5 site with no CSS framework and no JavaScript.
+A hand-written HTML5 site with mimimal CSS framework and no JavaScript.
 `style.css` is only for legibility (font, spacing, focus outlines, table borders).
 
 ## Pages
