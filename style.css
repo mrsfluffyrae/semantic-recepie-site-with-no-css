@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 45rem; margin: 0 auto; padding: 1rem; }
+nav ul { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1rem; }
+img { max-width: 100%; height: auto; }
+table { border-collapse: collapse; }
+th, td { border: 1px solid #888; padding: 0.4rem; text-align: left; }
+caption { text-align: left; font-weight: bold; }
+a:focus, input:focus, textarea:focus, button:focus { outline: 3px solid orange; }
